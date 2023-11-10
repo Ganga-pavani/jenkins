@@ -1,0 +1,16 @@
+<html>
+   <head>
+       <title>Web Page</title>
+   </head>
+   <body>
+      <h1>Drive Ready</h1>
+      <h2>Drive Ready</h2>
+      <h3>Drive Ready</h3>
+      <h4>Drive Ready</h4>
+      <h5>Drive Ready</h5>
+      <h6>Drive Ready</h6>
+<p>A <u>paragraph is a series of sentences that are organized</u> and <i>coherent</i>, 1<sup>st</sup>and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs</p>
+
+<span>drive ready </span>
+</body>
+</html>
